@@ -1,0 +1,25 @@
+- title: Walchsee-Kaiserwinkl
+  subtitle: Half-Distance
+  layout: default
+  modal-id: 1
+  date: 2016/09/04
+  img: challenge-wa.jpg
+  thumbnail: challenge-wa-thumbnail.jpg
+  alt: image-alt
+  project-date: September 2016
+  category: Half-Ironman
+  description: This is our Club-Race. All member who can will be present.
+  url_source: http://www.challenge-walchsee.at/
+
+- title: Vienna City Marathon
+  subtitle: Vienna City (Half-)Marathon
+  layout: default
+  modal-id: 3
+  date: 2016/04/10
+  img: vcm-2016.png
+  thumbnail: vcm-2016-thumbnail.png
+  alt: image-alt
+  project-date: April 2016
+  category: (Half-)Marathon
+  description: As this race is at home, a lot of our members participate in the half or the full marathon.
+  url_source: http://www.vienna-marathon.com/

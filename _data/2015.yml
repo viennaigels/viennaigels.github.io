@@ -1,0 +1,103 @@
+- title: Austin
+  subtitle: Ironman 70.3 in Austin, TX
+  layout: default
+  modal-id: 8
+  date: 2015/11/08
+  img: ironman-austin.jpg
+  thumbnail: ironman-austin-thumbnail.jpg
+  alt: image-alt
+  project-date: November 2015
+  category: Ironman
+  description: 1 of our members will take part at the Ironman 70.3 Austin, Texas.
+  url_source: http://www.ironman.com/triathlon/events/americas/ironman-70.3/austin.aspx
+
+- title: Pula
+  subtitle: Ironman 70.3 in Pula
+  layout: default
+  modal-id: 1
+  date: 2015/09/20
+  img: ironman-pula.jpg
+  thumbnail: ironman-pula-thumbnail.jpg
+  alt: image-alt
+  project-date: September 2015
+  category: Ironman
+  description: 7 of our members took part at the Ironman 70.3 in Pula in September 2015
+  url_source: http://www.ironman.com/triathlon/events/emea/ironman-70.3/pula.aspx
+
+- title: Podersdorf
+  subtitle: Triathlon in Podersdorf
+  layout: default
+  modal-id: 2
+  date: 2015/09/04
+  img: triathlon-podersdorf.jpg
+  thumbnail: triathlon-podersdorf-thumbnail.jpg
+  alt: image-alt
+  project-date: September 2015
+  category: Triathlon
+  description: 4 of our members took part at the Triathlon in Podersdorf in September 2015
+  url_source: http://www.austria-triathlon.at/news
+
+- title: Budapest
+  subtitle: Ironman 70.3 in Budapest
+  layout: default
+  modal-id: 3
+  date: 2015/08/22
+  img: ironman-budapest.jpg
+  thumbnail: ironman-budapest-thumbnail.jpg
+  alt: image-alt
+  project-date: August 2015
+  category: Ironman
+  description: 2 of our members took part at the Ironman 70.3 in Budapest in August 2015
+  url_source: http://www.ironman.com/triathlon/events/emea/ironman-70.3/budapest.aspx
+
+- title: Kärnten
+  subtitle: Ironman in Klagenfurt
+  layout: default
+  modal-id: 4
+  date: 2015/06/28
+  img: ironman-klagenfurt.jpg
+  thumbnail: ironman-klagenfurt-thumbnail.jpg
+  alt: image-alt
+  project-date: June 2015
+  category: Ironman
+  description: 1 of our members took part at the Ironman in Klagenfurt in September 2015
+  url_source: http://www.ironman.com/triathlon/events/emea/ironman/austria.aspx
+
+- title: Vienna City Triathlon
+  subtitle: Sprint and Olympic Distances
+  layout: default
+  modal-id: 5
+  date: 2015/05/30
+  img: viennacitytri.jpg
+  thumbnail: viennacitytri-thumbnail.jpg
+  alt: image-alt
+  project-date: Mai 2015
+  category: Triathlon
+  description: 4 of our members took part at the Vienna City Triathlon in May 2015.
+  url_source: http://www.viennacitytriathlon.at/de
+
+- title: St Pölten
+  subtitle: Ironman 70.3 in St Pölten
+  layout: default
+  modal-id: 6
+  date: 2015/05/17
+  img: ironman-stpoelten.jpg
+  thumbnail: ironman-stpoelten-thumbnail.jpg
+  alt: image-alt
+  project-date: May 2015
+  category: Ironman
+  description: 1 of our members took part at the Ironman 70.3 in St Pölten in May 2015
+  url_source: http://eu.ironman.com/triathlon/events/emea/ironman-70.3/st.-poelten.aspx
+
+- title: Vienna City Marathon
+  subtitle: (Half-)Marathon in the City of Vienna
+  layout: default
+  modal-id: 7
+  date: 2015/04/12
+  img: vcm.png
+  thumbnail: vcm-thumbnail.png
+  alt: image-alt
+  project-date: April 2015
+  category: Running
+  description: 4 of our members took part at the Vienna City Marathon on the half-distance and did great times.
+  url_source: http://www.vienna-marathon.com/?url=welcome&menu=-1
