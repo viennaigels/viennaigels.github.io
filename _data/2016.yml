@@ -1,7 +1,7 @@
 - title: Walchsee-Kaiserwinkl
   subtitle: Half-Distance
   layout: default
-  modal-id: 1
+  modal-id: 4
   date: 2016/09/04
   img: challenge-wa.jpg
   thumbnail: challenge-wa-thumbnail.jpg
@@ -10,19 +10,6 @@
   category: Half-Ironman
   description: This is our Club-Race. All member who can will be present.
   url_source: http://www.challenge-walchsee.at/
-
-- title: Vienna City Marathon
-  subtitle: Vienna City (Half-)Marathon
-  layout: default
-  modal-id: 2
-  date: 2016/04/10
-  img: vcm-2016.png
-  thumbnail: vcm-2016-thumbnail.png
-  alt: image-alt
-  project-date: April 2016
-  category: (Half-)Marathon
-  description: As this race is at home, a lot of our members will participate in the half or the full marathon.
-  url_source: http://www.vienna-marathon.com/
 
 - title: Budapest
   subtitle: Ironman 70.3 in Budapest
@@ -40,7 +27,7 @@
 - title: Vienna City Triathlon
   subtitle: Sprint and Olympic Distances
   layout: default
-  modal-id: 4
+  modal-id: 2
   date: 2016/05/21
   img: viennacitytri.jpg
   thumbnail: viennacitytri-thumbnail.jpg
@@ -49,3 +36,19 @@
   category: Triathlon
   description: Several of our members will take part at the Vienna City Triathlon.
   url_source: http://www.viennacitytriathlon.at/de
+
+- title: Vienna City Marathon
+  subtitle: Vienna City (Half-)Marathon
+  layout: default
+  modal-id: 1
+  date: 2016/04/10
+  img: vcm-2016.png
+  thumbnail: vcm-2016-thumbnail.png
+  alt: image-alt
+  project-date: April 2016
+  category: (Half-)Marathon
+  description: As this race is at home, a lot of our members will participate in the half or the full marathon.
+  url_source: http://www.vienna-marathon.com/
+
+
+
