@@ -10,30 +10,4 @@
   category: Triathlon
   description: Club Race 2017 - 7 Igels took part
   url_source: https://www.austria-triathlon.at/
-
-- title: Ironman Zürich
-  subtitle: Triathlon
-  layout: default
-  modal-id: 2
-  date: 2018/07/29
-  img: ironman_zurich.jpg
-  thumbnail: ironman_zurich.jpg
-  alt: image-alt
-  project-date: Jul 2017
-  category: Triathlon
-  description: 3 Members finished the full Ironman in Zurich
-  url_source: http://marathondessables.com/en/marathon-des-sables
-
-
-- title: Marathon des Sables
-  subtitle: Ultramarathon
-  layout: default
-  modal-id: 2
-  date: 2017/04/13
-  img: maroc_logo_black.png
-  thumbnail: maroc_logo_black.png
-  alt: image-alt
-  project-date: Apr 2017
-  category: Marathon
-  description: 1 Igel finished this 6 day Ultramarathon (251km)
-  url_source: http://marathondessables.com/en/marathon-des-sables
+  
