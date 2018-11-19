@@ -8,6 +8,26 @@
                 </div>
             </div>
             <div class="row">
+            <h4 class="section-subheading text-muted">2017</h4>
+            {% for race in site.data.2017 %}
+                <div class="col-md-4 col-sm-6 races-item">
+                    <a href="#racesModal{{ race.modal-id }}" class="races-link" data-toggle="modal">
+                        <div class="races-hover">
+                            <div class="races-hover-content">
+                                <i class="fa fa-plus fa-3x">{{race.description}}</i>
+                            </div>
+                        </div>
+                        <img src="img/races/2017/{{ race.thumbnail }}" class="img-responsive" alt="">
+                    </a>
+                    <div class="races-caption">
+                        <h4><a href="{{ race.url_source }}" target="_blank">{{ race.title }}</a></h4>
+                        <p class="text-muted">{{ race.subtitle }}</p>
+                        <p class+"text-muted">{{ race.date | date_to_string }}</p>
+                    </div>
+                </div>
+            {% endfor %}
+            </div>
+            <div class="row">
             <h4 class="section-subheading text-muted">2016</h4>
             {% for race in site.data.2016 %}
                 <div class="col-md-4 col-sm-6 races-item">
