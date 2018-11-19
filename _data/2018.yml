@@ -1,15 +1,16 @@
-- title: Austria Triathlon Podersdorf
-  subtitle: Olympic, Hal-Ironman and Ironman Distances
+- title: Istria Triathlon 70.3
+  subtitle: Triathlon
   layout: default
   modal-id: 2
-  date: 2017/09/03
-  img: podersdorf.png
-  thumbnail: podersdorf.png
+  date: 2018/09/23
+  img: istria.jpg
+  thumbnail: istria.jpg
   alt: image-alt
-  project-date: Sep 2017
+  project-date: Sep 2018
   category: Triathlon
-  description: Club Race 2017 - 7 Igels took part
-  url_source: https://www.austria-triathlon.at/
+  description: Ewa, Antoine and Martin finished Ironman 70.3 Istria
+  url_source: http://eu.ironman.com/triathlon/events/emea/ironman-70.3/slovenianistria.aspx
+
 
 - title: Ironman Zürich
   subtitle: Triathlon
@@ -19,10 +20,10 @@
   img: ironman_zurich.jpg
   thumbnail: ironman_zurich.jpg
   alt: image-alt
-  project-date: Jul 2017
+  project-date: Jul 2018
   category: Triathlon
   description: 3 Members finished the full Ironman in Zurich
-  url_source: http://marathondessables.com/en/marathon-des-sables
+  url_source: http://www.ironman.com/de-ch/triathlon/events/emea/ironman/switzerland.aspx
 
 
 - title: Marathon des Sables
