@@ -1,4 +1,17 @@
-- title: Austria Triathlon Podersdorf
+- title: Wachau
+  subtitle: Wachau Halfmarathon
+  layout: default
+  modal-id: 2
+  date: 2017/09/17
+  img: Wachaumarathon.jpg
+  thumbnail: Wachaumarathon.jpg
+  alt: image-alt
+  project-date: Sep 2017
+  category: Running
+  description: Ewa and Gilbert ran Halfmarathon
+  url_source: http://www.wachaumarathon.com/en/
+
+- title: Podersdorf
   subtitle: Olympic, Hal-Ironman and Ironman Distances
   layout: default
   modal-id: 2
@@ -10,4 +23,3 @@
   category: Triathlon
   description: Club Race 2017 - 7 Igels took part
   url_source: https://www.austria-triathlon.at/
-  

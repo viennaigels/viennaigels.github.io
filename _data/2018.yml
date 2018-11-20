@@ -1,5 +1,5 @@
-- title: Istria Triathlon 70.3
-  subtitle: Triathlon
+- title: Istria
+  subtitle: I feel Slovenia Triathlon 70.3
   layout: default
   modal-id: 2
   date: 2018/09/23
@@ -12,8 +12,8 @@
   url_source: http://eu.ironman.com/triathlon/events/emea/ironman-70.3/slovenianistria.aspx
 
 
-- title: Ironman Zürich
-  subtitle: Triathlon
+- title: Zürich
+  subtitle: Ironman Zürich
   layout: default
   modal-id: 2
   date: 2018/07/29
@@ -22,19 +22,60 @@
   alt: image-alt
   project-date: Jul 2018
   category: Triathlon
-  description: 3 Members finished the full Ironman in Zurich
+  description: 4 Igels participated in different distances in Zürich
   url_source: http://www.ironman.com/de-ch/triathlon/events/emea/ironman/switzerland.aspx
+
+- title: Klagenfurt
+  subtitle: Ironman Austria-Kärnten
+  layout: default
+  modal-id: 2
+  date: 2018/07/01
+  img: klagenfurt.jpg
+  thumbnail: klagenfurt.jpg
+  alt: image-alt
+  project-date: Jul 2018
+  category: Triathlon
+  description: Marty finished his first full Ironman
+  url_source: http://eu.ironman.com/triathlon/events/emea/ironman/austria.aspx
+
+
+- title: Tulln
+  subtitle: Tulln Triathlon
+  layout: default
+  modal-id: 2
+  date: 2018/06/03
+  img: tullntriathlon.jpg
+  thumbnail: tullntriathlon.jpg
+  alt: image-alt
+  project-date: June 2018
+  category: Triathlon
+  description: Alex, Martin and Richard finished Olympic Distance, Sarah finished 2nd in her group in Sprint Distance
+  url_source: http://www.tulln-triathlon.at/
+
+
+- title: St.Pölten
+  subtitle: Ironman 70.3 in St.Pölten
+  layout: default
+  modal-id: 2
+  date: 2018/05/27
+  img: st.poelten.jpg
+  thumbnail: st.poelten.jpg
+  alt: image-alt
+  project-date: May 2018
+  category: Triathlon
+  description: Camila, David, Raphael and Rob finished Half-Ironman
+  url_source: http://eu.ironman.com/triathlon/events/emea/ironman-70.3/st.-poelten.aspx
 
 
 - title: Marathon des Sables
-  subtitle: Ultramarathon
+  subtitle: 6 days Ultramarathon
   layout: default
   modal-id: 2
-  date: 2017/04/13
+  date: 2018/04/13
   img: maroc_logo_black.png
   thumbnail: maroc_logo_black.png
   alt: image-alt
-  project-date: Apr 2017
+  project-date: Apr 2018
   category: Marathon
-  description: 1 Igel finished this 6 day Ultramarathon (251km)
+  description: 1 Igel finished this Ultramarathon (251km)
   url_source: http://marathondessables.com/en/marathon-des-sables
