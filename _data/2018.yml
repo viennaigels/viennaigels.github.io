@@ -38,7 +38,6 @@
   description: Marty finished his first full Ironman
   url_source: http://eu.ironman.com/triathlon/events/emea/ironman/austria.aspx
 
-
 - title: Tulln
   subtitle: Tulln Triathlon
   layout: default
@@ -52,7 +51,6 @@
   description: Alex, Martin and Richard finished Olympic Distance, Sarah finished 2nd in her group in Sprint Distance
   url_source: http://www.tulln-triathlon.at/
 
-
 - title: St.Pölten
   subtitle: Ironman 70.3 in St.Pölten
   layout: default
@@ -65,7 +63,6 @@
   category: Triathlon
   description: Camila, David, Raphael and Rob finished Half-Ironman
   url_source: http://eu.ironman.com/triathlon/events/emea/ironman-70.3/st.-poelten.aspx
-
 
 - title: Marathon des Sables
   subtitle: 6 days Ultramarathon
